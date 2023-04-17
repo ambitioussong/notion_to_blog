@@ -1,7 +1,7 @@
 const BLOG = {
-  title: 'My Blog',
+  title: 'Jason\'s Blog',
   author: 'Jason',
-  email: 'Unpublished',
+  email: 'chenjs18@163.com',
   link: 'https://blog.keepfancy.com',
   description: 'Jason\'s daily blog',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Blog', 'ChatGPT', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
