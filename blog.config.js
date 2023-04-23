@@ -20,8 +20,8 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
-    keywords: ['Blog', 'ChatGPT', 'Notion', 'Daily', 'Thinkings'],
-    googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
+    keywords: ['ChatGPT', 'notion', 'blog', 'daily', 'thinkings', 'Jason', 'fancy', 'keepfancy'],
+    googleSiteVerification: '3qq1WRtbOjxAOOnGNv-8jVMh9UaelRnohjQXV_SNVdo' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
